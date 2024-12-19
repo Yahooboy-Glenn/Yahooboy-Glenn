@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yahooboy-Glenn
+- 👋 Hi, I’m @Glenn
 - 👀 I’m interested in cybersecurity, cloud computing, and software development.
 - 🌱 I’m currently learning more about vulnerability management, cloud infrastructure (AWS and Azure), and automation tools like Ansible and PowerShell. 
 - 💞️ I’m looking to collaborate on open-source security projects, Python scripting, and cloud infrastructure challenges.
